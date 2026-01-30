@@ -1,0 +1,33 @@
+body{
+    /* background:linear-gradient(to left,rgb(47, 0, 255),rgb(0, 255, 110),rgb(0, 255, 229)); */
+    background-image: url(OIP.jpg);
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    padding: 0;
+
+    margin: 0;height: 90vh;display: flex;justify-content: center;align-items: center;
+}
+
+#layout{
+     width:27rem; background: #ffffff; border-style: groove;border-radius: 10px; padding: 20px;line-height: 0.5;
+     background: #ac660b;
+     color: #ffffff;
+     box-shadow: rgb(255, 255, 255) 10px 10px 15px;
+    
+}
+#top{
+    display: flex; flex-direction: column; align-items: center;
+    margin-bottom: 0px;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+button{
+    background-color: #754507;
+    color: #ffffff;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: rgb(255, 255, 255);
+    padding: 10px 20px 10px 20px ;
+}
